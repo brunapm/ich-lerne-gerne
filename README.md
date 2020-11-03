@@ -1,6 +1,8 @@
-# Ich Lerne Gerne
+# Ich lerne gerne
 
 This repo is a digest of my studies on various subjects. The name means "I like learning" in German, which is also something I like learning.
+
+For each subject there's either a subfolder that represents a subsubject or a README file that contains information on the matter. 
 
 ### Author
 
